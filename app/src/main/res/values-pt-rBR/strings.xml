@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de Boas-Vindas</string>
+    <string name="app_main_text">Bem-Vindo ao app</string>
+    <string name="text2">Texto de boas-vindas do meu app</string>
+    <string name="imageDescription">imagem da matéria</string>
+</resources>
